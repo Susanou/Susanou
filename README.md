@@ -42,7 +42,7 @@
 - [Decode Me](https://susanou.github.io/CTFWriteups/posts/decodeMe/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://susanou.github.io/CTFWrietups)
+➡️ [more blog posts...][website]
 
 ---
 
