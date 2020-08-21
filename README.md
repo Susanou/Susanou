@@ -2,11 +2,11 @@
 
 ## I'm a Student, French, and hacker
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a [CTF Writeups][website]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to collaborate with other students and hackers
+- 🥅 2020 Goals: Participate in one CTF: on the way to GOOGLE CTF 2020
+- ⚡ Fun fact: I have synesthesia
 
 ### Connect with me:
 
