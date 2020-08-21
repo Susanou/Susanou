@@ -35,6 +35,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Magic](https://susanou.github.io/posts/Magic/)
+- [Admirer](https://susanou.github.io/posts/Admirer/)
+- [Freelancer](https://susanou.github.io/posts/freelancer/)
+- [Emdee Five for Life](https://susanou.github.io/posts/emdeefiveforlife/)
+- [Decode Me](https://susanou.github.io/posts/decodeMe/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://susanou.github.io/CTFWrietups)
