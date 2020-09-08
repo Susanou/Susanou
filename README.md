@@ -35,11 +35,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Magic](https://susanou.github.io/CTFWriteups/posts/Magic/)
-- [Admirer](https://susanou.github.io/CTFWriteups/posts/Admirer/)
-- [Freelancer](https://susanou.github.io/CTFWriteups/posts/freelancer/)
-- [Emdee Five for Life](https://susanou.github.io/CTFWriteups/posts/emdeefiveforlife/)
-- [Decode Me](https://susanou.github.io/CTFWriteups/posts/decodeMe/)
+- [Chunk Norris](protocol://domain/posts/ChunkNoris/)
+- [Magic](protocol://domain/posts/Magic/)
+- [Admirer](protocol://domain/posts/Admirer/)
+- [Freelancer](protocol://domain/posts/freelancer/)
+- [Emdee Five for Life](protocol://domain/posts/emdeefiveforlife/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
