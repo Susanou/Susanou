@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a [CTF Writeups][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other students and hackers
-- 🥅 2020 Goals: Participate in one CTF: on the way to GOOGLE CTF 2020
+- 🥅 2020 Goals: Participate in one CTF: on the way to GOOGLE CTF 2020 (Completed 161/625 with team xtal)
 - ⚡ Fun fact: I have synesthesia
 
 ### Connect with me:
