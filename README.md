@@ -35,11 +35,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LostKey](http://susanou.github.io/CTFWriteups/posts/lostkey/)
 - [Easy Hash](http://susanou.github.io/CTFWriteups/posts/easy_hash/)
 - [Chunk Norris](http://susanou.github.io/CTFWriteups/posts/ChunkNoris/)
 - [Magic](http://susanou.github.io/CTFWriteups/posts/Magic/)
 - [Admirer](http://susanou.github.io/CTFWriteups/posts/Admirer/)
-- [Freelancer](http://susanou.github.io/CTFWriteups/posts/freelancer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
