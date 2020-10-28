@@ -11,7 +11,9 @@
 ### Connect with me:
 
 [<img align="left" alt="Fukurou.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Fukurou.com" width="22px" src="https://app.hackthebox.eu/images/logos/logo-htb.svg" />][HTB]
+
+
+[<img align="left" alt="Fukurou.com" width="100px" src="https://app.hackthebox.eu/images/logos/logo-htb.svg" />][HTB]
 <br />
 
 ### Languages and Tools:
