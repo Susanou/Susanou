@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Fukurou.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
+[<img align="left" alt="Fukurou.com" width="22px" src="https://app.hackthebox.eu/images/logos/logo-htb.svg" />][HTB]
 <br />
 
 ### Languages and Tools:
@@ -38,11 +38,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LostKey](http://susanou.github.io/CTFWriteups/posts/lostkey/)
-- [Easy Hash](http://susanou.github.io/CTFWriteups/posts/easy_hash/)
-- [Chunk Norris](http://susanou.github.io/CTFWriteups/posts/ChunkNoris/)
-- [Magic](http://susanou.github.io/CTFWriteups/posts/Magic/)
-- [Admirer](http://susanou.github.io/CTFWriteups/posts/Admirer/)
+- [LostKey](http://susanou.github.io/Writeups/posts/lostkey/)
+- [Easy Hash](http://susanou.github.io/Writeups/posts/easy_hash/)
+- [Chunk Norris](http://susanou.github.io/Writeups/posts/ChunkNoris/)
+- [Magic](http://susanou.github.io/Writeups/posts/Magic/)
+- [Admirer](http://susanou.github.io/Writeups/posts/Admirer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
@@ -54,4 +54,5 @@
 <img align="left" alt="Susanou's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Susanou&show_icons=true&hide_border=true" />
 
 
-[website]: https://susanou.github.io/CTFWriteups
+[website]: https://susanou.github.io/Writeups
+[HTB]: https://app.hackthebox.eu/profile/337512
