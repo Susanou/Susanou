@@ -42,11 +42,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Heist](http://susanou.github.io/Writeups/posts/Heist/)
 - [Bucket](http://susanou.github.io/Writeups/posts/Bucket/)
 - [LostKey](http://susanou.github.io/Writeups/posts/lostkey/)
 - [Easy Hash](http://susanou.github.io/Writeups/posts/easy_hash/)
 - [Chunk Norris](http://susanou.github.io/Writeups/posts/ChunkNoris/)
-- [Magic](http://susanou.github.io/Writeups/posts/Magic/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
