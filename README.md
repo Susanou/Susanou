@@ -44,9 +44,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [RSA Common Modulus](http://susanou.github.io/Writeups/posts/RSA-Common-Modulus/)
 - [RSA Multiple Recipients](http://susanou.github.io/Writeups/posts/RSA-Multiple-Recipients/)
+- [Phonebook](http://susanou.github.io/Writeups/posts/phonebook/)
 - [Heist](http://susanou.github.io/Writeups/posts/Heist/)
 - [Bucket](http://susanou.github.io/Writeups/posts/Bucket/)
-- [LostKey](http://susanou.github.io/Writeups/posts/lostkey/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
