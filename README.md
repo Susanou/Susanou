@@ -42,11 +42,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Script Kiddie](http://susanou.github.io/Writeups/posts/scriptkiddie/)
+- [Quadratic Residues](http://susanou.github.io/Writeups/posts/qudraticresidue/)
+- [Legendre Symbol](http://susanou.github.io/Writeups/posts/legendresymbol/)
+- [Lazy CBC](http://susanou.github.io/Writeups/posts/lazycbc/)
 - [RSA Common Modulus](http://susanou.github.io/Writeups/posts/RSA-Common-Modulus/)
-- [RSA Multiple Recipients](http://susanou.github.io/Writeups/posts/RSA-Multiple-Recipients/)
-- [Phonebook](http://susanou.github.io/Writeups/posts/phonebook/)
-- [Heist](http://susanou.github.io/Writeups/posts/Heist/)
-- [Bucket](http://susanou.github.io/Writeups/posts/Bucket/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
