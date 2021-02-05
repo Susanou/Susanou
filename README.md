@@ -45,8 +45,8 @@
 - [Rookie Mistake](http://susanou.github.io/Writeups/posts/RookieMistake/)
 - [Script Kiddie](http://susanou.github.io/Writeups/posts/scriptkiddie/)
 - [Quadratic Residues](http://susanou.github.io/Writeups/posts/qudraticresidue/)
-- [Legendre Symbol](http://susanou.github.io/Writeups/posts/legendresymbol/)
 - [Lazy CBC](http://susanou.github.io/Writeups/posts/lazycbc/)
+- [RSA Common Modulus](http://susanou.github.io/Writeups/posts/RSA-Common-Modulus/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
