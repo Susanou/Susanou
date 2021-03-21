@@ -43,10 +43,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [LINE CTF](http://susanou.github.io/Writeups/posts/LINECTF/)
+- [Union CTF](http://susanou.github.io/Writeups/posts/UnionCTF/)
 - [Rookie Mistake](http://susanou.github.io/Writeups/posts/RookieMistake/)
 - [Script Kiddie](http://susanou.github.io/Writeups/posts/scriptkiddie/)
 - [Quadratic Residues](http://susanou.github.io/Writeups/posts/qudraticresidue/)
-- [Lazy CBC](http://susanou.github.io/Writeups/posts/lazycbc/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
