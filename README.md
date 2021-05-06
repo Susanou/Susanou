@@ -42,11 +42,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Composition](http://susanou.github.io/Writeups/posts/composition/)
 - [LINE CTF](http://susanou.github.io/Writeups/posts/LINECTF/)
 - [Union CTF](http://susanou.github.io/Writeups/posts/UnionCTF/)
 - [Rookie Mistake](http://susanou.github.io/Writeups/posts/RookieMistake/)
 - [Script Kiddie](http://susanou.github.io/Writeups/posts/scriptkiddie/)
-- [Quadratic Residues](http://susanou.github.io/Writeups/posts/qudraticresidue/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
