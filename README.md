@@ -55,7 +55,7 @@
 
 <summary>:zap: Github Stats</summary>
 
-<img align="left" alt="Susanou's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Susanou&show_icons=true&hide_border=true" />
+<img align="left" alt="Susanou's Github Stats" src="https://github-readme-stats.vercel.app/api?username=susanou&show_icons=true&theme=algolia" />
 
 
 [website]: https://susanou.github.io/Writeups
