@@ -3,7 +3,7 @@
 ## I'm a Student, French, and hacker
 
 - 🔭 I’m currently working on crypto [CTF Writeups][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Rust 🤣
 - 👯 I’m looking to collaborate with other students and hackers
 - 🥅 2021 Goals: Find my first bug for Bug Bounty
 - ⚡ Fun fact: I have synesthesia
