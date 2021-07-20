@@ -45,11 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Story](http://susanou.github.io/Writeups/posts/story/)
+- [Pythia](http://susanou.github.io/Writeups/posts/pythia/)
 - [Composition](http://susanou.github.io/Writeups/posts/composition/)
 - [LINE CTF](http://susanou.github.io/Writeups/posts/LINECTF/)
 - [Union CTF](http://susanou.github.io/Writeups/posts/UnionCTF/)
-- [Rookie Mistake](http://susanou.github.io/Writeups/posts/RookieMistake/)
-- [Script Kiddie](http://susanou.github.io/Writeups/posts/scriptkiddie/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
