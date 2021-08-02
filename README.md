@@ -45,11 +45,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Static Client 2](http://susanou.github.io/Writeups/posts/static-client2/)
 - [Signup](http://susanou.github.io/Writeups/posts/signup/)
 - [Story](http://susanou.github.io/Writeups/posts/story/)
 - [Pythia](http://susanou.github.io/Writeups/posts/pythia/)
-- [Composition](http://susanou.github.io/Writeups/posts/composition/)
-- [LINE CTF](http://susanou.github.io/Writeups/posts/LINECTF/)
+- [Static Client](http://susanou.github.io/Writeups/posts/static-client/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
