@@ -3,9 +3,9 @@
 ## I'm a Student, French, and hacker
 
 - 🔭 I’m currently working on crypto [CTF Writeups][website]!
-- 🌱 I’m currently learning Rust 🤣
+- 🌱 I’m currently learning C++ for game design 🤣
 - 👯 I’m looking to collaborate with other students and hackers
-- 🥅 2021 Goals: Find my first bug for Bug Bounty
+- 🥅 2022 Goals: Get a job in the video game industry
 - ⚡ Fun fact: I have synesthesia
 
 ### Connect with me:
