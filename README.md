@@ -2,9 +2,8 @@
 
 ## I'm a Student, French, and hacker
 
-- 🔭 I’m currently working on crypto [CTF Writeups][website]!
+- 🔭 I’m currently working on [Game Development][itch]
 - 🌱 I’m currently learning C++ for game design 🤣
-- 👯 I’m looking to collaborate with other students and hackers
 - 🥅 2022 Goals: Get a job in the video game industry
 - ⚡ Fun fact: I have synesthesia
 
@@ -14,6 +13,7 @@
 
 
 [<img align="left" alt="Fukurou.com" width="100px" src="https://app.hackthebox.eu/images/logos/logo-htb.svg" />][HTB]
+[<img align="left" alt="Fukurou.com" width="22px" src="https://avatars.githubusercontent.com/u/14803619?s=200&v=4"/>][itch]
 <br />
 
 ### Languages and Tools:
@@ -43,7 +43,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest CTF Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Static Client 2](http://susanou.github.io/Writeups/posts/static-client2/)
@@ -64,3 +64,4 @@
 
 [website]: https://susanou.github.io/Writeups
 [HTB]: https://app.hackthebox.eu/profile/337512
+[itch]: https://fukurou99.itch.io
