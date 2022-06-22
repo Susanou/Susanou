@@ -1,6 +1,6 @@
 ### Hi there, my name is Cameron - aka [Susanou or Fukurou][website] 👋
 
-## I'm a Student, French, and hacker
+## Game developer by day Hacker by night
 
 - 🔭 I’m currently working on [Game Development][itch]
 - 🌱 I’m currently learning C++ for game design 🤣
