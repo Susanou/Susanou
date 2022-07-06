@@ -46,7 +46,7 @@
 ### 📕 Latest CTF Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [MlSteal](http://susanou.github.io/Writeups/posts/mlsteal/)
+- [MLSteal](http://susanou.github.io/Writeups/posts/mlsteal/)
 - [Cycling](http://susanou.github.io/Writeups/posts/cycling/)
 - [Static Client 2](http://susanou.github.io/Writeups/posts/static-client2/)
 - [Signup](http://susanou.github.io/Writeups/posts/signup/)
