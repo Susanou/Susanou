@@ -3,15 +3,13 @@
 ## Game developer by day Hacker by night
 
 - 🔭 I’m currently working on [Game Development][itch]
-- 🌱 I’m currently learning C++ for game design 🤣
-- 🥅 2022 Goals: Get a job in the video game industry
+- 🌱 I’m currently learning to sketch and paint watercolor 🤣
+- 🥅 2024 Goals: Get better at reverse engineering
 - ⚡ Fun fact: I have synesthesia
 
 ### Connect with me:
 
 [<img align="left" alt="Fukurou.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-
 [<img align="left" alt="Fukurou.com" width="100px" src="https://app.hackthebox.eu/images/logos/logo-htb.svg" />][HTB]
 [<img align="left" alt="Fukurou.com" width="22px" src="https://avatars.githubusercontent.com/u/14803619?s=200&v=4"/>][itch]
 <br />
