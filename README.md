@@ -1,11 +1,15 @@
 ### Hi there, my name is Cameron - aka [Susanou or Fukurou][website] 👋
 
-## Game developer by day Hacker by night
+## Software developer by day Hacker by night
+
+<!---
 
 - 🔭 I’m currently working on [Game Development][itch]
+-->
+
 - 🌱 I’m currently learning to sketch and paint watercolor 🤣
-- 🥅 2024 Goals: Get better at reverse engineering
-- ⚡ Fun fact: I have synesthesia
+- 🥅 2025 Goals: Get better at finish an HTB Certification
+- ⚡ Fun fact: I speak 5 languages
 
 ### Connect with me:
 
